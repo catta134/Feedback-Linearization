@@ -1,5 +1,5 @@
 # Feedback-Linearization
-easy way to take your matrix to linearizate yor dynamic system
+easy way to take your matrix to linearizate your dynamic system
 
 TO USE THIS METHODS YOU SHOULD PUT YOUR DINAMIC SYSTEM INTO THE 'AFFINE CONTROL FORM'.
 G,F,H are the matrix that take place in this formulation, in particular H is the exit function; 
